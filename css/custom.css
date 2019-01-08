@@ -1,0 +1,25 @@
+/*
+Theme Name: Worthy - Free Powerful Theme by HtmlCoder
+Author:HtmlCoder
+Author URI:http://www.htmlcoder.me
+Version:1.0.0
+Created:November 2014
+License: Creative Commons Attribution 3.0 License (https://creativecommons.org/licenses/by/3.0/)
+File Description: Place here your custom CSS styles
+*/
+
+.bg-image-1 {
+	background: url("../images2/smos-banner.JPG") 50% 0px no-repeat;
+}
+
+.bg-image-2 {
+	background: url("../images2/banner-juniper-lookout.jpg") 50% 0px no-repeat;
+}
+
+.bg-image-3 {
+	background: url("../images2/banner-sunset.jpg") 50% 0px no-repeat;
+}
+
+.translucent-bg.green:after {
+	background-color: rgba(0, 128, 11, 0.7);
+}
